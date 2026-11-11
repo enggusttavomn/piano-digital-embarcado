@@ -4,10 +4,17 @@ Protótipo de piano digital que transforma entradas de teclado em resposta
 eletrônica com LCD, LEDs e circuitaria dedicada. Desenvolvido durante o
 curso Técnico em Mecatrônica (ETEP).
 
-> 🚧 **Repositório em reconstrução.** O código-fonte original deste
-> projeto ainda está sendo recuperado. Este README documenta o
-> funcionamento e o escopo do protótipo; o firmware será adicionado assim
-> que localizado.
+> **Documentação de protótipo.** Este repositório contém a descrição e
+> imagens do projeto. O firmware original ainda não está disponível;
+> não é possível compilar ou reproduzir o controle a partir deste snapshot.
+
+## Material disponível
+
+| Conteúdo | Disponibilidade |
+|---|---|
+| Descrição, componentes e contexto | Neste README |
+| Imagens do projeto | [img/](img/) |
+| Código-fonte / firmware original | Ainda não disponível |
 
 ## 🎯 Descrição do Projeto
 
